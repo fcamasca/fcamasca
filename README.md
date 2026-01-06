@@ -23,6 +23,8 @@ Recientemente certificado como **Google Advanced Data Analytics Professional** y
 ---
 
 ### 📌 Proyectos destacados
+🔹 **Automatidata — TLC (modelo de regresión)**
+Análisis de datos de viajes en taxi (TLC) aplicando regresión lineal múltiple para identificar los principales factores que influyen en la duración y distancia de los viajes. Incluye EDA, ingeniería de variables (rush hour, promedios históricos), estandarización, evaluación de supuestos y visualización de resultados en Tableau y Power BI.
 
 🔹 **Automatización de EDA y visualización (TLV Dataset)**
 Análisis exploratorio automatizado para identificar patrones, relaciones entre variables y oportunidades de optimización.
