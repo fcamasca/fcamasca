@@ -1,8 +1,7 @@
 # Frankz Camasca
+Ingeniero de Sistemas e Informática con más de 15 años de experiencia en desarrollo de software, arquitectura de soluciones y liderazgo de proyectos en Banca, Telecomunicaciones y Sector Público.
 
-Ingeniero de Sistemas e Informática con más de 15 años de experiencia en desarrollo de software, análisis y liderazgo de proyectos en Banca, Telecomunicaciones y Sector Público.
-
-En los últimos años he venido complementando mi experiencia en ingeniería y gestión con análisis de datos, estadística aplicada y ciencia de datos, desarrollando proyectos que combinan automatización, procesamiento de información y visualización para la toma de decisiones.
+Actualmente combino mi experiencia en ingeniería de software, automatización y análisis de datos para construir soluciones orientadas al negocio y a la toma de decisiones basada en datos.
 
 ## Áreas de interés
 
