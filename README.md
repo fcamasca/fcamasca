@@ -1,100 +1,71 @@
-# 👋 Hola, soy Frankz Camasca
+# Frankz Camasca
 
-### Senior Technology & Data Professional | PMP® | Python • SQL • Power BI • Data Analytics
+Ingeniero de Sistemas e Informática con más de 15 años de experiencia en desarrollo de software, análisis y liderazgo de proyectos en Banca, Telecomunicaciones y Sector Público.
 
-Ingeniero de Sistemas e Informática con más de **15 años de experiencia** liderando iniciativas de tecnología en **Banca, Telecomunicaciones y Sector Público**.
+En los últimos años he venido complementando mi experiencia en ingeniería y gestión con análisis de datos, estadística aplicada y ciencia de datos, desarrollando proyectos que combinan automatización, procesamiento de información y visualización para la toma de decisiones.
 
-Actualmente combino mi experiencia en **ingeniería de software, automatización y gestión de proyectos** con **análisis de datos y ciencia de datos aplicada**, construyendo soluciones orientadas al negocio y a la toma de decisiones basada en datos.
+## Áreas de interés
 
----
+- Data Analytics
+- Data Science
+- Ingeniería de Datos
+- Automatización con Python
+- Arquitectura y optimización de soluciones de software
 
-## 🏆 Certificaciones
+## Tecnologías
 
-- 🎓 Google Advanced Data Analytics Professional Certificate
-- 📋 Project Management Professional (**PMP®**)
-- 📊 Microsoft PL-300 (en preparación)
-
----
-
-## 🧠 Especialidades
-
-- **Análisis de Datos:** EDA, modelado estadístico y analítica predictiva.
-- **Ingeniería de Datos:** Procesamiento, transformación y automatización de datos.
-- **Gestión de Proyectos:** Liderazgo bajo estándares PMI (PMP®) y metodologías ágiles.
-- **Arquitectura de Software:** Diseño de sistemas y optimización de bases de datos complejas.
-- **Visualización:** Storytelling de datos con Power BI, Tableau y Python.
-- **Automatización:** Desarrollo de herramientas y soluciones empresariales con Python.
-
----
-
-## 🛠️ Stack Tecnológico
-
-### Datos y Analítica
-- Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
+**Lenguajes y herramientas**
+- Python
+- SQL
+- Oracle PL/SQL
 - Power BI
 - Tableau
-- Jupyter Notebook
+- Git
 
-### Bases de Datos
-- Oracle PL/SQL
-- SQL Server
-- MySQL
-- Informix
+**Librerías y análisis de datos**
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
 
-### Desarrollo y Calidad
-- Git & GitHub
-- SonarQube
-- Enterprise Architect
-- UML
-- PowerBuilder
+## Certificaciones
 
----
+- Google Advanced Data Analytics Professional Certificate
+- Project Management Professional (PMP®)
+- MIT xPRO – Data Science and Machine Learning
+- Oracle Cloud Infrastructure AI Foundations
+- Microsoft Power BI Data Analyst (en curso)
+- Google Project Management Certificate
+- Scrum
 
-## 🚀 Proyectos Destacados
+## Algunos proyectos
 
-### 🔹 Automatidata – TLC Regression Analysis
-Modelo de regresión lineal múltiple aplicado al dataset TLC de Nueva York, incluyendo EDA, ingeniería de variables y dashboards interactivos.
+### Automatidata – TLC Regression Analysis
+Análisis y modelado sobre datos de viajes de taxi de Nueva York, incluyendo EDA, ingeniería de variables y dashboards en Tableau y Power BI.
 
-**Tecnologías:** Python, Pandas, Scikit-Learn, Tableau, Power BI
+Repositorio:
+https://github.com/fcamasca/automatidata-tlc-regression-analysis
 
-🔗 https://github.com/fcamasca/automatidata-tlc-regression-analysis
+### MPP to Excel Exporter
+Herramienta para convertir cronogramas de Microsoft Project y ProjectLibre en reportes Excel jerárquicos sin requerir las aplicaciones originales.
 
----
+Repositorio:
+https://github.com/fcamasca/mpp-to-excel-exporter
 
-### 🔹 MPP to Excel Exporter
-Herramienta en Python que convierte cronogramas de Microsoft Project (`.mpp`) y ProjectLibre (`.pod`) en reportes Excel jerárquicos y formateados, sin requerir las aplicaciones originales.
+### Video Transcriptor
+Aplicación para la transcripción local de videos utilizando modelos de IA, orientada a entornos con restricciones de red y privacidad de la información.
 
-**Tecnologías:** Python, Pandas, OpenPyXL, Java, MPXJ
+Repositorio:
+https://github.com/fcamasca/video-transcriptor
 
-🔗 https://github.com/fcamasca/mpp-to-excel-exporter
+## Actualmente
 
----
+- Profundizando en análisis y ciencia de datos.
+- Preparando la certificación Microsoft PL-300.
+- Construyendo proyectos que integren datos, automatización e inteligencia artificial.
 
-### 🔹 Video Transcriptor
-Herramienta de transcripción local de videos utilizando modelos de IA, diseñada para entornos con restricciones de red y privacidad de la información.
+## Contacto
 
-**Tecnologías:** Python, Whisper, FFmpeg
-
-🔗 https://github.com/fcamasca/video-transcriptor
-
----
-
-### 🔹 Modelo Predictivo de Masa Corporal
-Desarrollo y evaluación de modelos de regresión, interpretación de coeficientes y validación de supuestos estadísticos.
-
----
-
-## 🎯 Objetivo Profesional
-
-Seguir evolucionando hacia roles de **Data Analytics, Data Science e Ingeniería de Datos**, aprovechando una sólida trayectoria en tecnología, arquitectura de soluciones y liderazgo de proyectos para construir productos y decisiones impulsadas por datos.
-
----
-
-## 📫 Contacto
-
-- 💼 LinkedIn: https://www.linkedin.com/in/frankz-william-camasca-castillo-b63a0094
-- 💻 GitHub: https://github.com/fcamasca
-
----
-
-> _"Transformando experiencia en tecnología y datos en soluciones con impacto de negocio."_
+LinkedIn:
+https://www.linkedin.com/in/frankz-william-camasca-castillo-b63a0094
