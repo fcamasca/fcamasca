@@ -1,32 +1,40 @@
 # Frankz Camasca
+
 Ingeniero de Sistemas e Informática con más de 15 años de experiencia en desarrollo de software, arquitectura de soluciones y liderazgo de proyectos en Banca, Telecomunicaciones y Sector Público.
 
-Actualmente combino mi experiencia en ingeniería de software, automatización y análisis de datos para construir soluciones orientadas al negocio y a la toma de decisiones basada en datos.
+Después de más de 15 años desarrollando software empresarial, hoy complemento esa experiencia con proyectos de inteligencia artificial y análisis de datos orientados a resolver problemas reales de ingeniería de software, automatización y productividad.
 
-## Áreas de interés
+## Especialidades
 
+- Software Architecture
+- AI Engineering
 - Data Analytics
-- Data Science
-- Ingeniería de Datos
-- Automatización con Python
-- Arquitectura y optimización de soluciones de software
+- Python Automation
+- Legacy Modernization
+- Business Intelligence
 
 ## Tecnologías
 
-**Lenguajes y herramientas**
+**Lenguajes y plataformas**
 - Python
 - SQL
 - Oracle PL/SQL
-- Power BI
-- Tableau
+- SQLite
 - Git
 
-**Librerías y análisis de datos**
+**IA y análisis**
+- RAG
+- Ollama
 - Pandas
 - NumPy
 - Scikit-Learn
-- Matplotlib
-- Seaborn
+- Power BI
+- Tableau
+
+**Prácticas**
+- CLI Development
+- Reverse Engineering
+- Spec-Driven Development
 
 ## Certificaciones
 
@@ -38,7 +46,22 @@ Actualmente combino mi experiencia en ingeniería de software, automatización y
 - Google Project Management Certificate
 - Scrum
 
-## Algunos proyectos
+## Proyectos destacados
+
+| Área | Proyecto |
+| --- | --- |
+| AI Engineering | Barbarion |
+| Data Analytics | Automatidata |
+| Developer Productivity | MPP to Excel Exporter |
+| Applied AI | Video Transcriptor |
+
+## Proyectos
+
+### Barbarion
+Asistente de IA on-premise para análisis, documentación e ingeniería inversa de sistemas legacy Oracle/PL/SQL y PowerBuilder. Integra RAG local, CLI en Python, SQLite, Ollama y generación de especificaciones Markdown trazables. Diseñado para ejecutarse completamente on-premise, preservando la privacidad del código y del conocimiento técnico.
+
+Repositorio:
+https://github.com/fcamasca/barbarion
 
 ### Automatidata – TLC Regression Analysis
 Análisis y modelado sobre datos de viajes de taxi de Nueva York, incluyendo EDA, ingeniería de variables y dashboards en Tableau y Power BI.
@@ -60,9 +83,9 @@ https://github.com/fcamasca/video-transcriptor
 
 ## Actualmente
 
-- Profundizando en análisis y ciencia de datos.
+- Construyendo herramientas de IA aplicada para ingeniería de software y análisis de sistemas legacy.
+- Profundizando en Data Analytics y Machine Learning mediante proyectos orientados a problemas reales.
 - Preparando la certificación Microsoft PL-300.
-- Construyendo proyectos que integren datos, automatización e inteligencia artificial.
 
 ## Contacto
 
